@@ -1,0 +1,14 @@
+bin
+environment.o
+hello.txt
+io.o
+lib
+Makefile
+npshell
+npshell.cpp
+npshell.o
+parser.o
+pipe.o
+src
+task.o
+test.html
